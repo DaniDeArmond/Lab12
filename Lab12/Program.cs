@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Lab12
 {
+    //worked with Jacob
+
     enum Roshambo { Rock, Paper, Scissors };
     enum Score { Win, Loss, Draw };
     class Program
